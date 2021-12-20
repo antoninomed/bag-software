@@ -1,0 +1,115 @@
+.contato{
+ color:#039be5;
+ text-align:center;
+ font-family:Quicksand;
+ font-size:50px;
+}
+.formulario_contato{
+	font-family:Quicksand;
+	font-size:20px;
+	width: 500px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color:#E4DCDC;
+    border-radius: 10px;
+    box-shadow: 0 0 6px #FFF;
+    margin-top: 140px;
+    border: none;
+	margin-right:center;
+	margin-top:50px;
+}
+.form-control{
+    display: block;
+    width: 98%;
+    height: 20px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;	
+
+}
+.mensagem_form{
+    display: block;
+    width: 98%;
+    height: 80px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;	
+	
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+	width:103%;
+	font-family:Quicksand;
+	font-size:14px;
+}
+.img_produtos{
+width:250px;
+height:200px;
+margin-left:75px;
+}
+.box{
+border: 1px solid #989898;
+padding:10px;
+background-color:#fff;
+border-radius:15px;
+transition:0.1s all linear;
+height:500px;
+width:450px;
+margin-left:1%;	
+}
+.box_texto{
+font-family:Quicksand;
+border: 1px solid #989898;
+padding:10px;
+background-color:#fff;
+border-radius:15px;
+transition:0.1s all linear;
+height:160px;	
+width:430px;
+margin-top:11px;
+}
+.texto_produto{
+	font-family:Quicksand;
+	margin-left:15px;
+}
+.texto_produtos{
+	font-family:Quicksand;
+	text-align:center;
+}
+.botao_compra{
+	display: inline-block;
+    padding: 6px 12px;
+    margin-left: 80%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+	width:20%;
+	font-family:Quicksand;
+	font-size:14px;
+	border-radius:10px;
+	background-color:#0A99C4;
+	color:white;
+
+}
+

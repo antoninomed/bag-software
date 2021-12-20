@@ -1,0 +1,35 @@
+
+.botao{width:150px; font-size:15px; height:30px; border-radius:5px; border:2px solid #CCC; cursor:pointer; margin-left:10px;}
+
+.btm{margin-left:180px;}
+
+.botao:hover{box-shadow: 0 0 2px #4D6DFF; transition:0.1s all linear; font-weight:bold;}
+
+.botao:active{background-color:#999; color:#FFF;}
+
+/*MENSAGENS DE ERRO E SUCESSO*/
+
+.erro{color:#A94442; background-color:#F2DEDE; border-color:#EBCCD1; text-align:center; font-size:16px; border-radius:5px; padding:5px; margin-bottom:15px;}
+
+.sucesso{color:#3C763D; background-color:#DFF0D8; border-color:#D6E9C6; text-align:center; font-size:16px; border-radius:5px; padding:5px; margin-bottom:25px;}
+
+/*BLOCO*/
+
+#bloco{width:70%; margin:10px auto;}
+.box{border:1px solid #989898; padding:10px; background-color:#FFF; margin-top:30px; border-radius:15px; transition:0.1s all linear; height:450px;}
+.box img{width:250px; height:200px; border-radius:10px; border:1px solid #494949;}
+.box h1{font-size:20px; text-align:center;}
+.box p{overflow:scroll; height:50px; border-bottom:1px solid #989898;}
+.box:hover{box-shadow:0 0 10px #000; transition:0.1s all linear; transform:scale(1.1,1.1)}
+
+.voltar-btn2{width: 4%; float: left; margin-left: 330px; margin-right: -470px; margin-top: 315px;}
+
+.lista {margin-top:200px;}
+
+.perfil {margin-top:200px; margin-left:100px;}
+
+.logo2{text-align:center; padding-bottom: 62px;}
+
+.voltar-btn3{width: 4%; float: left; margin-left: 330px; margin-right: -470px; margin-top: 315px;}
+
+.diagrama {position:fixed;margin-left:190px; margin-bottom:50px;box-shadow:0 0 40px #000;}

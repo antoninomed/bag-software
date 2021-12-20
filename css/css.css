@@ -1,0 +1,91 @@
+#menu{background-color:#087DC8;}
+
+#menu ul li a{font-family:Quicksand; text-align:center; color:#FFF; padding:20px; display:inline-block;font-size:17px;}
+
+#menu ul li a:hover{text-decoration:underline; font-style:italic; color:black;}
+
+#menu ul{width:1500px;margin-left:300px;}
+
+#menu ul li{display: inline-block; margin-left:60px; color:white;}
+
+.text2 {float:left; color:white;margin-top:15px;font-family: 'Comfortaa', cursive;font-size:20px; font-style:oblique;}
+
+.text3 {float:left; color:white;margin-left:80px;margin-top:15px;font-family: 'Comfortaa', cursive;}
+
+
+.icone {width:200px; height:80px; margin-left:180px;}
+
+
+<!--#0E9BF5-->
+
+.barra {font-family: Quicksand;font-size:22px;float:right;margin-left:50px; color:white;}
+
+.a {font-size:50px;}
+
+.glyphicon {margin-left:50px;margin-top:5px;font-family: Quicksand; color: white; font-size:19px;}
+
+.bag {color: #223D90;;font-size:30px;margin-left:100px;}
+
+.software {color:white; font-size:20px;font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+.fundotop {color:black; background-color:black;}
+
+footer {background-color: black;  box-shadow:0 0 6px #000;width:100%; color: white;padding:8px; text-align: center;}
+
+.digan {font-family: Quicksand; color:white; font-size: 16px;}
+
+.pirataria {font-family: Quicksand; color:white; font-size: 16px;}
+
+.nao {font-family: Quicksand; color:red; font-size: 16px;}
+
+.marcas-logo{margin-top: 1px; margin-bottom: 1px;}
+
+.logo2{margin-top:30px;margin-left:600px;width:30%;}
+
+.logo3 {margin-left:600px;width:30%; margin-top:30px;}
+
+.carousel-inner {backgroubd-color:blue;}
+
+.pos {margin-bottom:50px;}
+
+.topa {padding: 15px;margin-left:100px;}
+
+.titulo {color:#087DC8; font-family: 'Comfortaa';font-weight:bold;margin-left:50px;}
+
+.retangulo {margin-left:50px;border:ridge black 2px ; margin-right:1200px;}
+
+.titulo2 {font-family: 'Comfortaa';}
+
+.redes {margin-left:120px;}
+
+.frete {font-size:16px;font-family:Quicksand; margin-right:250px;font-weight:900;}
+
+.tel {margin-top:12px;text-align:center;}
+
+.navbar-right{position:relative;}
+
+.titulo-usuario {font-weight:bold;text-align:center; font-family:Quicksand;color:#039be5}
+
+.nome-label {margin-left:25px;font-family:Quicksand; font-size:16px; font-weight:bold;} 
+
+.fundo2 {padding-bottom:15px;border-top:2px solid black; border-bottom:2px solid black;border-right:2px solid black; border-left:2px solid black; margin-left:15px;}
+
+.titulo-pedidos {font-family:Quicksand; font-weight:bold;}
+
+.bod {border-right:1px solid black;}
+
+.titulo23 {font-family:Quicksand; font-family:12px; font-weight:bold;text-align:center;}
+
+.titulo45{font-family:Quicksand;}
+
+.titulo45c{font-family:Quicksand;text-align:center;font-weight:bold;font-size:30px;background-color:#087DC8;color:#039be5; font-size:30px;}
+
+.compra23 {float:right;}
+
+.titulo-pagamento {font-family:Quicksand;}
+
+.fot {font-family:Quicksand;}
+
+.titulo-carrosel {margin-bottom:150px;}
+
+.container3 {background-color:white;}

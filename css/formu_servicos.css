@@ -1,0 +1,39 @@
+
+
+/*body{background-color:#DDDCDC;}*/
+
+#servicos{background-color: rgba(0,0,0.8); width: 900px; height: 900px;
+    margin: 160px auto;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0  0 25px #000;
+    margin-left: 300px;}
+
+#servicos label{width: 100px; display: inline-block; padding-bottom: 20px;color: snow; font-size: inherit; text-align: center;}
+
+#servicos h2{text-align:center; margin-bottom:20px; font-size:30px;}
+
+#servicos .caixa{width:70%; height:30px; border-radius:7px; border:2px solid #CCC; outline:none; padding-left:10px; font-size:15px; transition:0.2s all linear;}
+
+#servicos .caixa:hover{border-bottom:2px solid #4D6DFF; transition:0.2s all linear;}
+
+#servicos .caixa:focus{border-bottom:2px solid #4D6DFF; border-top:2px solid #4D6DFF;}
+
+#servicos input[type=submit]{width:40%; padding:10px; margin-top:15px; border:none; border-radius:10px; font-size:16px; background-color: darkgreencolor: white; cursor:pointer;}
+
+#servicos input[type=submit]:hover{box-shadow:0 0 4px #000;}
+
+#servicos .informacoes {width: 100%; color: #fff; text-align: center; font-size: x-large; font-family: cursive;}
+
+#servicos .btnb{background-color:#39C;}
+.seta_1, .seta_2{width:0; height:0;border: 10px solid transparent; border-right: 10px solid #CCC; position:relative; top:45px; left:55px;}
+.seta_2 {top:70px;}
+
+.foto{background-image:url(../imagens/4.-Exercising.jpg); background-size: cover; text-align:center;}
+
+.login{padding: 7px; color:green;}
+
+,.btncadastrar{background-color: rgba(0,0,0.);}
+
+.erro{background-color: black; color: #319EF8; border: 2px solid cornflowerblue; border-radius: 10px; 	width: 100%;}
